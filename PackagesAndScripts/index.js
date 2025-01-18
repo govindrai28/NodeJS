@@ -1,0 +1,2 @@
+//Dependencies:- are the how many packages I install direct dependencies is express but express dependencies are the in the node_modules mai hai
+//Jab apka aap laptop pai chal raha production mai nahi hai usse ham bole hai dev-dependencies kaite hai
